@@ -1,0 +1,12 @@
+{
+  "name": "p5-wealth",
+  "version": "0.1.0",
+  "description": "Connect Claude to P5 Wealth: find households, read assessments, their details and saved results, and manage household and assessment records as the signed-in advisor.",
+  "author": {
+    "name": "P5 Wealth Technologies"
+  },
+  "homepage": "https://github.com/Tolerisk/p5-mcp-plugin",
+  "repository": "https://github.com/Tolerisk/p5-mcp-plugin",
+  "privacyPolicyUrl": "https://advisor.p5wealth.com/privacy",
+  "keywords": ["p5-wealth", "financial-advisor", "risk-tolerance", "mcp"]
+}

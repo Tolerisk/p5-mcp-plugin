@@ -1,0 +1,16 @@
+{
+  "name": "p5-wealth",
+  "owner": {
+    "name": "P5 Wealth Technologies"
+  },
+  "metadata": {
+    "description": "The P5 Wealth plugin for Claude: connect Claude to your P5 Wealth households and assessments."
+  },
+  "plugins": [
+    {
+      "name": "p5-wealth",
+      "source": "./",
+      "description": "Connect Claude to P5 Wealth: households, assessments, details and saved results, as the signed-in advisor."
+    }
+  ]
+}
